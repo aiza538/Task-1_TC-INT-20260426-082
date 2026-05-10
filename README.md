@@ -155,7 +155,7 @@ SEO	100
 
 ### Live Demo
 
-<a href="https://elaborate-marigold-175676.netlify.app">Live Demo</a>
+<https://elaborate-marigold-175676.netlify.app>
 
 Author
 TEYZIX CORE Internship Program
